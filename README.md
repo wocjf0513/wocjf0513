@@ -15,9 +15,9 @@
 
 
 <div align=center style="font-size:15px">Hi, I'm Jae cheol.</div>
-<div align=center style="font-size:14px"> <br>I will live <br><br>Smartly, <br><br>Positively <br><br>and <br><br>Independently </div>
+<div align=center style="font-size:14px"> I will live Smartly, Positively and Independently </div>'
 
-
+<br>
 
 <div align=center ><h1>📚 STACKS</h1></div>
 
