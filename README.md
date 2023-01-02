@@ -8,8 +8,6 @@
 
 <div align=center>
 
-![KakaoTalk_20220810_235817100](https://user-images.githubusercontent.com/59725406/184843970-293b9e16-b112-4c1d-87ad-f401d1725b84.jpg)
-
 </div>
 
 
