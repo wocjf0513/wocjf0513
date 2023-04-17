@@ -50,10 +50,10 @@
 <br>
 :two: I did an internship at solid IT for 6 months.
 <br>
-:three: I made a application for mentoring matching by region and school  
-( https://github.com/08-PickMen/PickMen_App )
+:three: I majored in software at Ajou University.
 <br>
-:four: I majored in software at Ajou University.
+:four: About the projects I've , 
+[Portfolio](https://github.com/wocjf0513/portFolio) 
 <br>
 
 
@@ -64,3 +64,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wocjf0513&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+## 
