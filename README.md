@@ -1,6 +1,6 @@
 #### Hey, I'm JaeCheol 👋
 
-* I graduated from Ajou University's software department, Interned at Solid IT for 2 months.
+* I graduated from Ajou University's software department, Interned at Solid IT for 3 months.
 
 * I’m focused on participating in the yanolja x fastcampus boot campus, finding jobs, and Spring Boot - based side project.
 
