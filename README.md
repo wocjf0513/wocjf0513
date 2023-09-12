@@ -20,7 +20,6 @@
             <li>AWS EC2, Docker, Git, GitHub, Jira, Slack</li>
             <li>Jsp, Jquery, Css</li>
             <h3>Link</h3>
-      <li><a href="https://github.com/wocjf0513">GitHub</a></li>
       <li><a href="https://wocjf0513.tistory.com/">Blog</a></li>
       <li><a href="https://wocjf0513.github.io/">Portfolio WEB</a></li>
       <li><a href="https://github.com/wocjf0513/portfolio">Portfolio PPT</a></li>
