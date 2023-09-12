@@ -17,7 +17,7 @@
             <h3>Teck Stack</h3>
             <li>Spring Boot, Java</li>
             <li>Mysql, H2, MariaDB</li>
-            <li>AWS EC2, Docker, Git, GitHub</li>
+            <li>AWS EC2, Docker, Git, GitHub, Jira, Slack</li>
             <li>Jsp, Jquery, Css</li>
             <h3>Link</h3>
       <li><a href="https://github.com/wocjf0513">GitHub</a></li>
