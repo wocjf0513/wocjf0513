@@ -11,9 +11,9 @@
             <h3>Teck Stack</h3>
            <hr width = "100%" color = "gray">
             <li>Spring Boot3, Java17</li>
-            <li>Docker </li>
+            <li>Docker</li>
             <li>Mysql, H2, Redis</li>
-            <li>AWS EC, RDS, Caddy2, Git, GitHub(CI/CD Actions, Projects, Issues, PR)</li>
+            <li>AWS EC, RDS, Caddy2, Git, GitHub</li>
             <h3>Link</h3>
            <hr width = "100%" color = "gray">
       <li><a href="https://wocjf0513.tistory.com/">Blog</a></li>
