@@ -10,9 +10,10 @@
       <li>participating in the yanolja x fastcampus back-end boot campus</li>
             <h3>Teck Stack</h3>
            <hr width = "100%" color = "gray">
-            <li>Spring Boot, Java</li>
-            <li>Mysql, H2, MariaDB, Redis</li>
-            <li>AWS EC, Git, GitHub, Slack</li>
+            <li>Spring Boot3, Java17</li>
+            <li>Docker </li>
+            <li>Mysql, H2, Redis</li>
+            <li>AWS EC, RDS, Caddy2, Git, GitHub(CI/CD Actions, Projects, Issues, PR)</li>
             <h3>Link</h3>
            <hr width = "100%" color = "gray">
       <li><a href="https://wocjf0513.tistory.com/">Blog</a></li>
