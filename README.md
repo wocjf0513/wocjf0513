@@ -16,7 +16,7 @@
             <li>AWS EC, RDS, Caddy2, Git, GitHub</li>
             <h3>Link</h3>
            <hr width = "100%" color = "gray">
-      <li><a href="https://wocjf0513.tistory.com/">Blog</a></li>
+      <li><a href="https://blog.naver.com/wocjf0513">Blog</a></li>
       <li><a href="https://wocjf0513.github.io/">Portfolio WEB</a></li>
       <li><a href="https://github.com/wocjf0513/portfolio">Portfolio PPT</a></li>
           <p></p>
