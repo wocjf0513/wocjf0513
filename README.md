@@ -11,8 +11,10 @@
             <h3>Teck Stack</h3>
            <hr width = "100%" color = "gray">
             <li>Spring Boot3, Java17</li>
+            <li>Junit5, Mockito</li>
+            <li>RestDocs, Swagger</li>
             <li>Docker</li>
-            <li>Mysql, H2, Redis</li>
+            <li>Mysql, Redis</li>
             <li>AWS EC, RDS, Caddy2, Git, GitHub</li>
             <h3>Link</h3>
            <hr width = "100%" color = "gray">
