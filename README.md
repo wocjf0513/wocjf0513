@@ -1,5 +1,4 @@
-<table>
-  <p font-size= "30px" align="left">😁 Hey, I'm JaeCheol</p>
+## 😁 Hi, I'm JaeCheol
   <tbody>
       <td>
         <ul>
@@ -7,7 +6,7 @@
             <hr width = "100%" color = "gray">
       <li>graduated from Ajou University's software department</li>
       <li>Interned at Solid IT for 3 months.</li>
-      <li>participating in the yanolja x fastcampus back-end boot campus</li>
+      <li>participated in the yanolja x fastcampus back-end boot campus for 7 months</li>
             <h3>Teck Stack</h3>
            <hr width = "100%" color = "gray">
             <li>Spring Boot3, Java17</li>
@@ -18,14 +17,12 @@
             <li>AWS EC, RDS, Caddy2, Git, GitHub</li>
             <h3>Link</h3>
            <hr width = "100%" color = "gray">
-      <li><a href="https://blog.naver.com/wocjf0513">Blog</a></li>
-      <li><a href="https://wocjf0513.github.io/">Portfolio WEB</a></li>
-      <li><a href="https://github.com/wocjf0513/portfolio">Portfolio PPT</a></li>
+      <li><a href="https://blog.naver.com/wocjf0513">Technical Blog</a></li>
+      <li><a href="https://wocjf0513.github.io/">Portfolio</a></li>
           <p></p>
     </ul>
   </td
 </tbody>
-</table>
 
 
 
