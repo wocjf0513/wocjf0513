@@ -17,7 +17,7 @@
             <li>Mysql, Mssql</li>
             <h3>링크</h3>
            <hr width = "100%" color = "gray">
-      <li><a href="https://blog.naver.com/wocjf0513">기술정리 블로그</a></li>
+      <li><a href="https://mungjaesoon.tistory.com/category/%EA%B3%B5%EB%B6%80/%EC%BB%B4%ED%93%A8%ED%84%B0">기술정리 블로그</a></li>
       <li><a href="https://wocjf0513.github.io/">포트폴리오</a></li>
           <p></p>
     </ul>
